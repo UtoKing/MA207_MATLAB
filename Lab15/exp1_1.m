@@ -21,5 +21,4 @@ figure(2)
 y=binocdf(0:200,200,p);
 
 plot(0:200,y);
-m=sum(y<0.999)-1;
-disp(m)
+find(y>=0.999)
