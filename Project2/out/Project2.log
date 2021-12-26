@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.10.24)  20 DEC 2021 11:22
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.10.24)  26 DEC 2021 19:53
 entering extended mode
 **./Project2.tex
 (Project2.tex
@@ -840,78 +840,118 @@ e.sfd})
 [1
 
 ]
-<./picture/exp1_3_1.png, id=140, 421.575pt x 352.31625pt>
+<./picture/exp1_3_1.png, id=148, 421.575pt x 352.31625pt>
 File: ./picture/exp1_3_1.png Graphic file (type png)
 <use ./picture/exp1_3_1.png>
 Package pdftex.def Info: ./picture/exp1_3_1.png  used on input line 118.
 (pdftex.def)             Requested size: 129.00269pt x 107.80841pt.
-<./picture/exp1_3_2.png, id=141, 421.575pt x 352.31625pt>
+<./picture/exp1_3_2.png, id=149, 421.575pt x 352.31625pt>
 File: ./picture/exp1_3_2.png Graphic file (type png)
 <use ./picture/exp1_3_2.png>
 Package pdftex.def Info: ./picture/exp1_3_2.png  used on input line 124.
 (pdftex.def)             Requested size: 129.00269pt x 107.80841pt.
-<./picture/exp1_3_3.png, id=142, 421.575pt x 352.31625pt>
+<./picture/exp1_3_3.png, id=150, 421.575pt x 352.31625pt>
 File: ./picture/exp1_3_3.png Graphic file (type png)
 <use ./picture/exp1_3_3.png>
 Package pdftex.def Info: ./picture/exp1_3_3.png  used on input line 130.
 (pdftex.def)             Requested size: 129.00269pt x 107.80841pt.
  [2] [3 <./picture/exp1_3_1.png (PNG copy)> <./picture/exp1_3_2.png (PNG copy)>
  <./picture/exp1_3_3.png (PNG copy)>]
+<picture/exp2.png, id=189, 85.44421pt x 186.6975pt>
+File: picture/exp2.png Graphic file (type png)
+<use picture/exp2.png>
+Package pdftex.def Info: picture/exp2.png  used on input line 185.
+(pdftex.def)             Requested size: 85.444pt x 186.69704pt.
+ [4 <./picture/exp2.png (PNG copy)>]
+<picture/exp3_1_1.png, id=209, 421.575pt x 352.31625pt>
+File: picture/exp3_1_1.png Graphic file (type png)
+<use picture/exp3_1_1.png>
+Package pdftex.def Info: picture/exp3_1_1.png  used on input line 197.
+(pdftex.def)             Requested size: 171.99922pt x 143.74097pt.
+<picture/exp3_1_2.png, id=210, 421.575pt x 352.31625pt>
+File: picture/exp3_1_2.png Graphic file (type png)
+<use picture/exp3_1_2.png>
+Package pdftex.def Info: picture/exp3_1_2.png  used on input line 201.
+(pdftex.def)             Requested size: 171.99922pt x 143.74097pt.
+<picture/exp3_1_3.png, id=211, 421.575pt x 352.31625pt>
+File: picture/exp3_1_3.png Graphic file (type png)
+<use picture/exp3_1_3.png>
+Package pdftex.def Info: picture/exp3_1_3.png  used on input line 206.
+(pdftex.def)             Requested size: 171.99922pt x 143.74097pt.
+<picture/exp3_1_4.png, id=212, 421.575pt x 352.31625pt>
+File: picture/exp3_1_4.png Graphic file (type png)
+<use picture/exp3_1_4.png>
+Package pdftex.def Info: picture/exp3_1_4.png  used on input line 210.
+(pdftex.def)             Requested size: 171.99922pt x 143.74097pt.
+
+[5
+
+ <./picture/exp3_1_1.png (PNG copy)> <./picture/exp3_1_2.png (PNG copy)> <./pic
+ture/exp3_1_3.png (PNG copy)> <./picture/exp3_1_4.png (PNG copy)>]
 (E:/MATLAB-Project\Project2\out\Project2.aux)
 Package rerunfilecheck Info: File `Project2.out' has not changed.
-(rerunfilecheck)             Checksum: 770B81E703CCC62D0C307F4B8C6D18AD;315.
+(rerunfilecheck)             Checksum: 67CE9C2CD1BC43AF27E04A858E972FE2;459.
  ) 
 Here is how much of TeX's memory you used:
- 18665 strings out of 478927
- 301815 string characters out of 2862391
- 602515 words of memory out of 3000000
- 36007 multiletter control sequences out of 15000+600000
- 441064 words of font info for 144 fonts, out of 8000000 for 9000
+ 18957 strings out of 478927
+ 306303 string characters out of 2862391
+ 602579 words of memory out of 3000000
+ 36231 multiletter control sequences out of 15000+600000
+ 455538 words of font info for 193 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 76i,9n,86p,695b,611s stack positions out of 5000i,500n,10000p,200000b,80000s
-<C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/s
-imsun.ttc> <C:\Users\utoki\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
-600\ecrm1000.pk><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/W
-INDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.t
-tc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/
-simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOW
-S/Fonts/simsun.ttc> <C:\Users\utoki\AppData\Local\MiKTeX\fonts/pk/ljfour/jknapp
-en/ec/dpi657\ecsl1000.pk><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.
-ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts
-/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDO
-WS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><
-C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/sims
-un.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fo
-nts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WI
-NDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.tt
-c><C:/WINDOWS/Fonts/simsun.ttc> <C:\Users\utoki\AppData\Local\MiKTeX\fonts/pk/l
-jfour/jknappen/ec/dpi657\ecrm1000.pk><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/F
-onts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/W
-INDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.t
-tc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/
-simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOW
-S/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C
-:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhe
-i.ttf> <C:\Users\utoki\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\
-ecbx1200.pk><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf> <C:\User
-s\utoki\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi720\ecbx1200.pk><C:
-/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc> <C:\Users\utoki\AppData
-\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\utoki\A
-ppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk><C:/WINDOWS/
-Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><D:/
-Program Files/MikTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/Program File
-s/MikTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><D:/Program Files/MikTeX/font
-s/type1/public/amsfonts/cm/cmex10.pfb><D:/Program Files/MikTeX/fonts/type1/publ
-ic/amsfonts/cm/cmmi10.pfb><D:/Program Files/MikTeX/fonts/type1/public/amsfonts/
-cm/cmmi8.pfb><D:/Program Files/MikTeX/fonts/type1/public/amsfonts/cm/cmmib10.pf
-b><D:/Program Files/MikTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Program
- Files/MikTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Program Files/MikTeX/
-fonts/type1/public/amsfonts/cm/cmsy10.pfb><D:/Program Files/MikTeX/fonts/type1/
-public/amsfonts/cm/cmsy8.pfb>
-Output written on E:/MATLAB-Project\Project2\out\Project2.pdf (3 pages, 606554 
+ 76i,9n,86p,695b,653s stack positions out of 5000i,500n,10000p,200000b,80000s
+ <C:\Users\utoki\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm
+0800.pk> <C:\Users\utoki\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi65
+7\tcrm1000.pk><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WIN
+DOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf
+><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/si
+mhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/
+Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simhei.ttf><C:/
+WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.
+ttc><C:/WINDOWS/Fonts/simsun.ttc> <C:\Users\utoki\AppData\Local\MiKTeX\fonts/pk
+/ljfour/jknappen/ec/dpi600\ecrm1000.pk><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS
+/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:
+/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun
+.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Font
+s/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc> <C:\Users\utoki\AppData\Local\MiKTeX
+\fonts/pk/ljfour/jknappen/ec/dpi657\ecsl1000.pk><C:/WINDOWS/Fonts/simsun.ttc><C
+:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsu
+n.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fon
+ts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WIN
+DOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc
+><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/si
+msun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/
+Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/
+WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc> <C:\Users\utoki\AppData\
+Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi657\ecrm1000.pk><C:/WINDOWS/Fonts/s
+imsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS
+/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:
+/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun
+.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Font
+s/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WIND
+OWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simhei.ttf>
+<C:/WINDOWS/Fonts/simhei.ttf> <C:\Users\utoki\AppData\Local\MiKTeX\fonts/pk/ljf
+our/jknappen/ec/dpi600\ecbx1200.pk><C:/WINDOWS/Fonts/simhei.ttf><C:/WINDOWS/Fon
+ts/simhei.ttf> <C:\Users\utoki\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
+/dpi720\ecbx1200.pk><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc> 
+<C:\Users\utoki\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm120
+0.pk> <C:\Users\utoki\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\e
+crm1728.pk><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOWS/Fonts/simsun.ttc><C:/WINDOW
+S/Fonts/simsun.ttc><D:/Program Files/MikTeX/fonts/type1/public/amsfonts/cm/cmbx
+10.pfb><D:/Program Files/MikTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><D:/Pr
+ogram Files/MikTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Program Files/
+MikTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Program Files/MikTeX/fonts
+/type1/public/amsfonts/cm/cmmi8.pfb><D:/Program Files/MikTeX/fonts/type1/public
+/amsfonts/cm/cmmib10.pfb><D:/Program Files/MikTeX/fonts/type1/public/amsfonts/c
+m/cmr10.pfb><D:/Program Files/MikTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><D
+:/Program Files/MikTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Program File
+s/MikTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Program Files/MikTeX/fonts
+/type1/public/amsfonts/cm/cmsy10.pfb><D:/Program Files/MikTeX/fonts/type1/publi
+c/amsfonts/cm/cmsy8.pfb>
+Output written on E:/MATLAB-Project\Project2\out\Project2.pdf (5 pages, 894879 
 bytes).
 PDF statistics:
- 495 PDF objects out of 1000 (max. 8388607)
- 18 named destinations out of 1000 (max. 500000)
- 272 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 606 PDF objects out of 1000 (max. 8388607)
+ 24 named destinations out of 1000 (max. 500000)
+ 325 words of extra memory for PDF output out of 10000 (max. 10000000)
 
