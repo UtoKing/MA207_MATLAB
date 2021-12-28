@@ -2,14 +2,15 @@ clc,clear,close
 
 v=0.032;
 opts = odeset('InitialStep',1e-3);
-a=zeros(100,2);
+a=zeros(130,2);
 k=1;
-for i=0.01:0.01:1
-[r,f]=ode45(@(r,y) exp3func(r,y,v),[1e-8 10000],[0 i],opts);
-a(k,:)=mean(f(end-100:end,:),1);
+for i=0.01:0.01:1.3
+[r,f,g]=exp3func2(i,1e3);
+a(k,1)=mean(f(end-1000:end));
+a(k,2)=mean(g(end-1000:end));
 k=k+1;
 end
 
-plot(0.01:0.01:1,a)
+plot(0.01:0.01:1.3,a)
 
 
