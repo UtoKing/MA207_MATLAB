@@ -1,16 +1,24 @@
 clc,clear,close
 
 v=0.032;
-opts = odeset('InitialStep',1e-3);
 a=zeros(130,2);
 k=1;
-for i=0.01:0.01:1.3
-[r,f,g]=exp3func2(i,1e3);
-a(k,1)=mean(f(end-1000:end));
-a(k,2)=mean(g(end-1000:end));
-k=k+1;
+lb=0;
+ub=1;
+iteration=0;
+
+
+while true
+    mid=(lb+ub)/2;
+    [~,~,gval]=exp3func2(v,mid,1e3);
+    k=mean(gval(end-100:end));
+    if abs(k)<1e-3 || iteration>1e4
+        break
+    elseif k>0
+        lb=mid;
+    else
+        ub=mid;
+    end
+    iteration=iteration+1;
 end
-
-plot(0.01:0.01:1.3,a)
-
-
+g_0=(lb+ub)/2;
