@@ -1,4 +1,4 @@
-function[A,x]=Gauss(N)
+function [A,x]=Gauss(N)
 i=N;
 f=((sym('t'))^2-1)^i;
 f=diff(f,i);

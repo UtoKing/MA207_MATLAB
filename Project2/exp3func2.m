@@ -1,5 +1,5 @@
 function [rval,fval,gval]=exp3func2(v,g_0,tspan)
-step=0.001;
+step=0.01;
 f=0;
 g=g_0;
 r=0;

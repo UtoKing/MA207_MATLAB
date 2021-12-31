@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2021.12.28)  28 DEC 2021 14:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2021.12.31)  31 DEC 2021 20:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -622,7 +622,9 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 86.
 )
 \Hy@SectionHShift=\skip57
-) (C:\Users\utoki\AppData\Roaming\MiKTeX\tex/latex/cjk/UTF8\UTF8.bdg
+)
+\c@theorem=\count311
+ (C:\Users\utoki\AppData\Roaming\MiKTeX\tex/latex/cjk/UTF8\UTF8.bdg
 File: UTF8.bdg 2021/10/16 4.8.5
 )
 (C:\Users\utoki\AppData\Roaming\MiKTeX\tex/latex/cjk/UTF8\UTF8.enc
@@ -634,88 +636,88 @@ File: UTF8.chr 2021/10/16 4.8.5
 (E:\Matlab-File\MA207_MATLAB\Project2\out\Project2.aux)
 \openout1 = `Project2.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
-LaTeX Font Info:    ... okay on input line 26.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C00/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C05/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C09/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C10/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C20/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C19/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C40/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C42/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C43/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C50/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C52/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C49/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C60/mj/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C61/mj/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C63/mj/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C64/mj/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C65/mj/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C70/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C31/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C32/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C33/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C34/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C35/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C36/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C37/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C80/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C81/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C01/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C11/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C21/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C41/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for C62/song/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 28.
+LaTeX Font Info:    ... okay on input line 28.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -753,16 +755,16 @@ LaTeX Font Info:    ... okay on input line 26.
 
 (D:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count311
+\scratchcounter=\count312
 \scratchdimen=\dimen194
 \scratchbox=\box63
-\nofMPsegments=\count312
-\nofMParguments=\count313
+\nofMPsegments=\count313
+\nofMParguments=\count314
 \everyMPshowfont=\toks37
-\MPscratchCnt=\count314
+\MPscratchCnt=\count315
 \MPscratchDim=\dimen195
-\MPnumerator=\count315
-\makeMPintoPDFobject=\count316
+\MPnumerator=\count316
+\makeMPintoPDFobject=\count317
 \everyMPtoPDFconversion=\toks38
 ) (D:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -778,8 +780,8 @@ Package caption Info: hyperref package is loaded.
 Package caption Info: listings package is loaded.
 Package caption Info: wrapfig package is loaded.
 Package caption Info: End \AtBeginDocument code.
-\c@lstlisting=\count317
-Package hyperref Info: Link coloring OFF on input line 26.
+\c@lstlisting=\count318
+Package hyperref Info: Link coloring OFF on input line 28.
 
 (D:\Program Files\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
@@ -791,17 +793,17 @@ Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
 g.sty
 Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
-\c@section@level=\count318
+\c@section@level=\count319
 )
-LaTeX Info: Redefining \ref on input line 26.
-LaTeX Info: Redefining \pageref on input line 26.
-LaTeX Info: Redefining \nameref on input line 26.
+LaTeX Info: Redefining \ref on input line 28.
+LaTeX Info: Redefining \pageref on input line 28.
+LaTeX Info: Redefining \nameref on input line 28.
  (E:\Matlab-File\MA207_MATLAB\Project2\out\Project2.out)
 (E:\Matlab-File\MA207_MATLAB\Project2\out\Project2.out)
 \@outlinefile=\write3
 \openout3 = `Project2.out'.
 
-LaTeX Font Info:    Trying to load font information for C70+rm on input line 28
+LaTeX Font Info:    Trying to load font information for C70+rm on input line 30
 .
 
 (C:\Users\utoki\AppData\Roaming\MiKTeX\tex/latex/ctex/fd\c70rm.fd
@@ -811,7 +813,7 @@ File: c70rm.fd 2021/12/12 v2.5.8 Chinese font definition (CTEX)
 LaTeX Warning: No \author given.
 
 Package CJKpunct Info: use punctuation spaces for family 'rm' with punctstyle (
-quanjiao) on input line 31.
+quanjiao) on input line 33.
 
 (C:\Users\utoki\AppData\Roaming\MiKTeX\tex/generic/ctex/zhmap\ctex-zhmap-window
 s.tex
@@ -821,117 +823,172 @@ eX and DVIPDFMx (CTEX)
 code.sfd}) [1
 
 ]
-<./picture/exp1_3_1.png, id=148, 421.575pt x 352.31625pt>
+<./picture/exp1_3_1.png, id=169, 421.575pt x 352.31625pt>
 File: ./picture/exp1_3_1.png Graphic file (type png)
 <use ./picture/exp1_3_1.png>
-Package pdftex.def Info: ./picture/exp1_3_1.png  used on input line 117.
+Package pdftex.def Info: ./picture/exp1_3_1.png  used on input line 119.
 (pdftex.def)             Requested size: 129.00269pt x 107.80841pt.
-<./picture/exp1_3_2.png, id=149, 421.575pt x 352.31625pt>
+<./picture/exp1_3_2.png, id=170, 421.575pt x 352.31625pt>
 File: ./picture/exp1_3_2.png Graphic file (type png)
 <use ./picture/exp1_3_2.png>
-Package pdftex.def Info: ./picture/exp1_3_2.png  used on input line 123.
+Package pdftex.def Info: ./picture/exp1_3_2.png  used on input line 125.
 (pdftex.def)             Requested size: 129.00269pt x 107.80841pt.
-<./picture/exp1_3_3.png, id=150, 421.575pt x 352.31625pt>
+<./picture/exp1_3_3.png, id=171, 421.575pt x 352.31625pt>
 File: ./picture/exp1_3_3.png Graphic file (type png)
 <use ./picture/exp1_3_3.png>
-Package pdftex.def Info: ./picture/exp1_3_3.png  used on input line 129.
+Package pdftex.def Info: ./picture/exp1_3_3.png  used on input line 131.
 (pdftex.def)             Requested size: 129.00269pt x 107.80841pt.
  [2] [3 <./picture/exp1_3_1.png (PNG copy)> <./picture/exp1_3_2.png (PNG copy)>
  <./picture/exp1_3_3.png (PNG copy)>]
-<picture/exp2.png, id=189, 85.44421pt x 186.6975pt>
+<picture/exp2.png, id=209, 85.44421pt x 186.6975pt>
 File: picture/exp2.png Graphic file (type png)
 <use picture/exp2.png>
-Package pdftex.def Info: picture/exp2.png  used on input line 185.
+Package pdftex.def Info: picture/exp2.png  used on input line 188.
 (pdftex.def)             Requested size: 85.444pt x 186.69704pt.
  [4 <./picture/exp2.png (PNG copy)>]
-<picture/exp3_1_1.png, id=209, 421.575pt x 352.31625pt>
+<picture/exp3_1_1.png, id=229, 421.575pt x 352.31625pt>
 File: picture/exp3_1_1.png Graphic file (type png)
 <use picture/exp3_1_1.png>
-Package pdftex.def Info: picture/exp3_1_1.png  used on input line 198.
+Package pdftex.def Info: picture/exp3_1_1.png  used on input line 202.
 (pdftex.def)             Requested size: 171.99922pt x 143.74097pt.
-<picture/exp3_1_2.png, id=210, 421.575pt x 352.31625pt>
+<picture/exp3_1_2.png, id=230, 421.575pt x 352.31625pt>
 File: picture/exp3_1_2.png Graphic file (type png)
 <use picture/exp3_1_2.png>
-Package pdftex.def Info: picture/exp3_1_2.png  used on input line 202.
+Package pdftex.def Info: picture/exp3_1_2.png  used on input line 206.
 (pdftex.def)             Requested size: 171.99922pt x 143.74097pt.
-<picture/exp3_1_3.png, id=211, 421.575pt x 352.31625pt>
+<picture/exp3_1_3.png, id=231, 421.575pt x 352.31625pt>
 File: picture/exp3_1_3.png Graphic file (type png)
 <use picture/exp3_1_3.png>
-Package pdftex.def Info: picture/exp3_1_3.png  used on input line 207.
+Package pdftex.def Info: picture/exp3_1_3.png  used on input line 211.
 (pdftex.def)             Requested size: 171.99922pt x 143.74097pt.
-<picture/exp3_1_4.png, id=212, 421.575pt x 352.31625pt>
+<picture/exp3_1_4.png, id=232, 421.575pt x 352.31625pt>
 File: picture/exp3_1_4.png Graphic file (type png)
 <use picture/exp3_1_4.png>
-Package pdftex.def Info: picture/exp3_1_4.png  used on input line 211.
+Package pdftex.def Info: picture/exp3_1_4.png  used on input line 215.
 (pdftex.def)             Requested size: 171.99922pt x 143.74097pt.
+<picture/exp3_2.png, id=233, 421.575pt x 352.31625pt>
+File: picture/exp3_2.png Graphic file (type png)
+<use picture/exp3_2.png>
+Package pdftex.def Info: picture/exp3_2.png  used on input line 235.
+(pdftex.def)             Requested size: 387.00153pt x 323.43063pt.
  [5
 
  <./picture/exp3_1_1.png (PNG copy)> <./picture/exp3_1_2.png (PNG copy)> <./pic
-ture/exp3_1_3.png (PNG copy)> <./picture/exp3_1_4.png (PNG copy)>] (E:\Matlab-F
-ile\MA207_MATLAB\Project2\out\Project2.aux)
+ture/exp3_1_3.png (PNG copy)> <./picture/exp3_1_4.png (PNG copy)>] [6 <./pictur
+e/exp3_2.png (PNG copy)>]
+Package CJKpunct Info: use punctuation spaces for family 'zhkai' with punctstyl
+e (quanjiao) on input line 249.
+
+Project2.tex:250: Missing delimiter (. inserted).
+<to be read again> 
+                   $
+l.250 ..., \quad y\left(x_{0}\right)=y_{0}\right\]
+                                                  
+I was expecting to see something like `(' or `\{' or
+`\}' here. If you typed, e.g., `{' instead of `\{', you
+should probably delete the `{' by typing `1' now, so that
+braces don't get unbalanced. Otherwise just proceed.
+Acceptable delimiters are characters whose \delcode is
+nonnegative, or you can use `\delimiter <delimiter code>'.
+
+Project2.tex:250: Extra \right.
+<to be read again> 
+                   $
+l.250 ..., \quad y\left(x_{0}\right)=y_{0}\right\]
+                                                  
+I'm ignoring a \right that had no matching \left.
+
+<picture/exp3_4.png, id=251, 421.575pt x 352.31625pt>
+File: picture/exp3_4.png Graphic file (type png)
+<use picture/exp3_4.png>
+Package pdftex.def Info: picture/exp3_4.png  used on input line 268.
+(pdftex.def)             Requested size: 301.00192pt x 251.55476pt.
+<picture/exp3_4_2.png, id=252, 210.41109pt x 135.12984pt>
+File: picture/exp3_4_2.png Graphic file (type png)
+<use picture/exp3_4_2.png>
+Package pdftex.def Info: picture/exp3_4_2.png  used on input line 274.
+(pdftex.def)             Requested size: 301.00192pt x 193.31255pt.
+[7 <./picture/exp3_4.png (PNG copy)>]
+<picture/exp3_5.png, id=287, 421.575pt x 352.31625pt>
+File: picture/exp3_5.png Graphic file (type png)
+<use picture/exp3_5.png>
+Package pdftex.def Info: picture/exp3_5.png  used on input line 282.
+(pdftex.def)             Requested size: 301.00192pt x 251.55476pt.
+ [8 <./picture/exp3_4_2.png (PNG copy)> <./picture/exp3_5.png (PNG copy)>] [9]
+(E:\Matlab-File\MA207_MATLAB\Project2\out\Project2.aux)
 Package rerunfilecheck Info: File `Project2.out' has not changed.
-(rerunfilecheck)             Checksum: 67CE9C2CD1BC43AF27E04A858E972FE2;459.
+(rerunfilecheck)             Checksum: 979B1CDF53670D04EB33EC3A0FAE9EF6;866.
  ) 
 Here is how much of TeX's memory you used:
- 19140 strings out of 478659
- 328978 string characters out of 2855776
- 608434 words of memory out of 3000000
- 36680 multiletter control sequences out of 15000+600000
- 452650 words of font info for 179 fonts, out of 8000000 for 9000
+ 19542 strings out of 478659
+ 337592 string characters out of 2855776
+ 608492 words of memory out of 3000000
+ 37011 multiletter control sequences out of 15000+600000
+ 460356 words of font info for 206 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,9n,86p,695b,647s stack positions out of 5000i,500n,10000p,200000b,80000s
- <C:\Users\utoki\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm
-0800.pk> <C:\Users\utoki\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi65
-7\tcrm1000.pk><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Win
-dows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf
-><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/si
-mhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/
-Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/
-Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.
-ttc><C:/Windows/Fonts/simsun.ttc> <C:\Users\utoki\AppData\Local\MiKTeX\fonts/pk
-/ljfour/jknappen/ec/dpi600\ecrm1000.pk><C:/Windows/Fonts/simsun.ttc><C:/Windows
-/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:
-/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun
-.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Font
-s/simsun.ttc><C:/Windows/Fonts/simsun.ttc> <C:\Users\utoki\AppData\Local\MiKTeX
-\fonts/pk/ljfour/jknappen/ec/dpi657\ecsl1000.pk><C:/Windows/Fonts/simsun.ttc><C
-:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsu
-n.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fon
-ts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Win
-dows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc
-><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/si
-msun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/
+<C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/s
+imkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows
+/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:
+/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai
+.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Font
+s/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Wind
+ows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf>
+<C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/sim
+kai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/Fonts/simkai.ttf><C:/Windows/F
+onts/simkai.ttf> <C:\Users\utoki\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/
+ec/dpi657\ecbx1000.pk><C:/Windows/Fonts/simsun.ttc> <C:\Users\utoki\AppData\Loc
+al\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm0800.pk> <C:\Users\utoki\AppDa
+ta\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi657\tcrm1000.pk><C:/Windows/Font
+s/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Wind
+ows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf>
+<C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/sim
+hei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/F
+onts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf><C:/W
+indows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.t
+tc> <C:\Users\utoki\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecr
+m1000.pk><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/
 Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/
-Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc> <C:\Users\utoki\AppData\
-Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi657\ecrm1000.pk><C:/Windows/Fonts/s
-imsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows
+Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.
+ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc> <C:\Users\utoki\
+AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi657\ecsl1000.pk><C:/Windows
 /Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:
 /Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun
 .ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Font
 s/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Wind
-ows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf>
-<C:/Windows/Fonts/simhei.ttf> <C:\Users\utoki\AppData\Local\MiKTeX\fonts/pk/ljf
-our/jknappen/ec/dpi600\ecbx1200.pk><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fon
-ts/simhei.ttf> <C:\Users\utoki\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec
-/dpi720\ecbx1200.pk><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc> 
-<C:\Users\utoki\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm120
-0.pk> <C:\Users\utoki\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\e
-crm1728.pk><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Window
-s/Fonts/simsun.ttc><D:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx
-10.pfb><D:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx8.pfb><D:/Pr
-ogram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><D:/Program Files/
-MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><D:/Program Files/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmmi8.pfb><D:/Program Files/MiKTeX/fonts/type1/public
-/amsfonts/cm/cmmib10.pfb><D:/Program Files/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmr10.pfb><D:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><D
-:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><D:/Program File
-s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><D:/Program Files/MiKTeX/fonts
-/type1/public/amsfonts/cm/cmsy10.pfb><D:/Program Files/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmsy8.pfb>
-Output written on E:\Matlab-File\MA207_MATLAB\Project2\out\Project2.pdf (5 page
-s, 894887 bytes).
+ows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc>
+<C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/sim
+sun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/F
+onts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/W
+indows/Fonts/simsun.ttc> <C:\Users\utoki\AppData\Local\MiKTeX\fonts/pk/ljfour/j
+knappen/ec/dpi657\ecrm1000.pk><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/si
+msun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/
+Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/
+Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.
+ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts
+/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windo
+ws/Fonts/simsun.ttc><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf> 
+<C:\Users\utoki\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecbx120
+0.pk><C:/Windows/Fonts/simhei.ttf><C:/Windows/Fonts/simhei.ttf> <C:\Users\utoki
+\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi720\ecbx1200.pk><C:/Window
+s/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc> <C:\Users\utoki\AppData\Local\
+MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1200.pk> <C:\Users\utoki\AppData\
+Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\ecrm1728.pk><C:/Windows/Fonts/s
+imsun.ttc><C:/Windows/Fonts/simsun.ttc><C:/Windows/Fonts/simsun.ttc><D:/Program
+ Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><D:/Program Files/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmbx8.pfb><D:/Program Files/MiKTeX/fonts/type1
+/public/amsfonts/cm/cmex10.pfb><D:/Program Files/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmmi10.pfb><D:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi
+8.pfb><D:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmmib10.pfb><D:/P
+rogram Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><D:/Program Files/
+MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><D:/Program Files/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmr7.pfb><D:/Program Files/MiKTeX/fonts/type1/public/am
+sfonts/cm/cmr8.pfb><D:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy
+10.pfb><D:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
+Output written on E:\Matlab-File\MA207_MATLAB\Project2\out\Project2.pdf (9 page
+s, 1143155 bytes).
 PDF statistics:
- 606 PDF objects out of 1000 (max. 8388607)
- 24 named destinations out of 1000 (max. 500000)
- 325 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 788 PDF objects out of 1000 (max. 8388607)
+ 38 named destinations out of 1000 (max. 500000)
+ 389 words of extra memory for PDF output out of 10000 (max. 10000000)
 

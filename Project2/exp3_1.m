@@ -1,6 +1,9 @@
 clc,clear,close
 
-[rval,fval,gval]=exp3func2(0.032,0.6518128391,1e4);
+v=0.032;
+g_0=0.5;
+
+[rval,fval,gval]=exp3func2(v,g_0,1e2);
 
 plot(rval,fval)
 hold on

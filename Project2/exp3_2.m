@@ -1,24 +1,14 @@
 clc,clear,close
 
 v=0.032;
-a=zeros(130,2);
-k=1;
-lb=0;
-ub=1;
-iteration=0;
 
+g_0=.01:.01:1.2;
+g_infs=zeros(size(g_0));
 
-while true
-    mid=(lb+ub)/2;
-    [~,~,gval]=exp3func2(v,mid,1e3);
-    k=mean(gval(end-100:end));
-    if abs(k)<1e-3 || iteration>1e4
-        break
-    elseif k>0
-        lb=mid;
-    else
-        ub=mid;
-    end
-    iteration=iteration+1;
+for i=1:length(g_0)
+    [~,~,gval]=exp3func2(v,g_0(i),1e3);
+    g_inf=mean(gval(end-100:end));
+    g_infs(i)=g_inf;
 end
-g_0=(lb+ub)/2;
+
+plot(g_0,g_infs)

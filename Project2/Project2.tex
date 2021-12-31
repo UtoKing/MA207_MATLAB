@@ -20,6 +20,8 @@
 \usepackage{amsthm}
 \usepackage{hyperref}
 
+\newtheorem{theorem}{Theorem}
+
 \title{数学实验 Project 2}
 
 % Document
@@ -37,13 +39,13 @@
         \sum_{i=1}^{\mathrm{n}+1} P_{i}=\sum_{i=1}^{\mathrm{n}+1} \frac{W_{i} \sum_{j=0}^{n} \phi_{j}^{2}\left(x_{i}\right)}{n+1}
         = \frac{\sum_{i=1}^{\mathrm{n}+1}W_{i} \sum_{j=0}^{n} \phi_{j}^{2}\left(x_{i}\right)}{n+1}
     \end{equation}
-    把分母单独提出来，即证分母等于 n+1 即可。
+    把分子单独提出来，即证分子等于 n+1 即可。
     交换两求和符号顺序得
     \begin{equation}
         \sum_{i=1}^{n+1}W_{i} \sum_{j=0}^{n} \phi_{j}^{2}\left(x_{i}\right)=\sum_{j=0}^{n}\sum_{i=1}^{n+1}W_i\phi_{j}^2(x_i)
     \end{equation}
-    注意到里面的求和即是对每个$\phi_j$作 [0,1] 上的高斯求积，即值为 1.
-    而外面的求和做了 n+1 次，因此分母的和为 n+1.
+    注意到里面的求和即是对每个 $\phi_j^2$ 作 [0,1] 上的高斯求积，即值为 1.
+    而外面的求和做了 n+1 次，因此分子的和为 n+1, 再除以分母 n+1,
     所以最终求得\(\sum_{i=1}^{n+1}P_i=1\). \hfill \(\qedsymbol\)
 
     \subsection{第二问}
@@ -79,17 +81,17 @@
     下面给出数学证明。
 
     首先注意到 \(\mathbf{H}\) 必定为正定矩阵，因为 \(\mathbf{\Phi'\Phi}\) 的所有特征值必定都大于 0.
-    则该二次型的最优解为 \(\mathbf{\hat{c}}=\mathbf{H}^{-1}\mathbf{(-F)}\), 即 \(\mathbf{\hat{c}}=\mathbf{\Phi'\Phi}^{-1}\mathbf{\Phi' F}\).
-    接下来只需证明 \(\mathbf{\Phi'\Phi}^{-1}\mathbf{\Phi' F}=\mathbf{\Phi'}\text{diag}(\mathbf{W})F\) 即可。
-    其中 \(\text{diag}(\mathbf{W})\) 指的是对角线全为 \(\mathbf{W}\) 的元素的 \((n+1)\times (n+1)\) 的矩阵。
+    则该二次型的最优解为 \(\mathbf{\hat{c}}=\mathbf{H}^{-1}\mathbf{(-F)}\), 即 \(\mathbf{\hat{c}}=(\mathbf{\Phi'\Phi})^{-1}\mathbf{\Phi' F}\).
+    注意到 \(\mathbf{\Phi'}\text{diag}(\mathbf{W})\mathbf{F}\) 的第 k 个元素为 \(\sum_{i=1}^{n+1}f\left(x_{i}\right) w_{i} \phi_{k}\left(x_{i}\right)\).
+    其中 \(\text{diag}(\mathbf{W})\) 指的是对角线全为 \(\mathbf{W}=(w_1,w_2,\dots ,w_{n+1})\) 的元素的 \((n+1)\times (n+1)\) 的矩阵，
+    即 \(\text{diag}(\mathbf{W})_{ii}=w_i\).
+    接下来只需证明 \((\mathbf{\Phi'\Phi})^{-1}\mathbf{\Phi' F}=\mathbf{\Phi'}\text{diag}(\mathbf{W})\mathbf{F}\) 即可。
 
-    可以验证 \(\mathbf{\Phi'}\text{diag}(\mathbf{W})\mathbf{F}\) 的第 k 个元素为 \(\sum_{i=1}^{n+1}f\left(x_{i}\right) w_{i} \phi_{k}\left(x_{i}\right)\).
-
-    下面接着证明 \(\mathbf{\Phi'\Phi}^{-1}\mathbf{\Phi' F}=\mathbf{\Phi'}\text{diag}(\mathbf{W})\mathbf{F}\).
+    下面是证明过程：
 
     \begin{equation}
         \begin{aligned}
-            \mathbf{\Phi'\Phi}^{-1}\mathbf{\Phi' F} &=\mathbf{\Phi'}\text{diag}(\mathbf{W})\mathbf{F} \\
+            (\mathbf{\Phi'\Phi})^{-1}\mathbf{\Phi' F} &=\mathbf{\Phi'}\text{diag}(\mathbf{W})\mathbf{F} \\
             \mathbf{\Phi' F} &=\mathbf{\Phi'\Phi}\mathbf{\Phi'}\text{diag}(\mathbf{W})\mathbf{F} \\
             \mathbf{F} &=\mathbf{\Phi}\mathbf{\Phi'}\text{diag}(\mathbf{W})\mathbf{F} \\
             \mathbf{I} &=\mathbf{\Phi}\mathbf{\Phi'}\text{diag}(\mathbf{W})
@@ -115,18 +117,19 @@
         \begin{subfigure}[t]{0.3\textwidth}
             \centering
             \includegraphics[width=\textwidth]{./picture/exp1_3_1}
-            \caption{}
+            \caption{f(x)=x}
             \label{fig:a}
         \end{subfigure}
         \begin{subfigure}[t]{0.3\textwidth}
             \centering
             \includegraphics[width=\textwidth]{./picture/exp1_3_2}
-            \caption{}
+            \caption{f(x)=sin(x)}
             \label{fig:b}
         \end{subfigure}
         \begin{subfigure}[t]{0.3\textwidth}
             \centering
             \includegraphics[width=\textwidth]{./picture/exp1_3_3}
+            \caption{f(x)=exp(x)}
         \end{subfigure}
     \end{figure}
 
@@ -191,6 +194,7 @@
 
 
     \section{问题 3}
+    \subsection{第一问}
     依照题目所给的迭代式计算，相关代码在 exp3.m 中，以下分别是 \(g_0\) 取 0.05, 0.5, 1, 1.5 的时候的图像，\(r\) 取值在 0 到 100 之间的图像。
     \begin{figure}[H]
         \centering
@@ -221,5 +225,62 @@
         \item 注意到 \(\frac{1}{r^2}\frac{\text{d}(r^2 f)}{\text{d}r}=
         \frac{\text{d}f}{\text{d}r}+\frac{2f}{r}\), 这种方法可以使得计算 \(f\) 时具有更高的精度。
     \end{itemize}
+    
+    \subsection{第二问}
+    取不同的 \(g_0\) 的并计算当 \(r\) 趋于 10000 时的值。
+    具体思路是取最后的100个点做平均值，近似当作趋于很大时的值。
+    下面是一些取 \(g_0\) 在\(0.01\sim 1\) 步长为 0.01 时的一些计算结果。
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.9\textwidth]{picture/exp3_2}
+        \caption{不同的 \(g_0\) 对应的无穷远的结果}
+    \end{figure}
 
+    当 \(g_0\) 小于 0.65 左右时，\(g\) 趋于 0.1785 也就是 \(\sqrt {v}\), \(f\) 趋于 0.
+    当 \(g_0\) 大于 0.66 左右时，\(g\) 趋于 -0.1785 也就是 \(-\sqrt {v}\), \(f\) 趋于 0.
+
+    因此猜想是 \(g_0\) 当小于某个值时，\(g\) 会趋于 \(\sqrt {v}\); 当大于某个值时，\(g\) 会趋于 \(-\sqrt {v}\).
+    而 \(f\) 会始终趋于 0.
+
+    \subsection{第三问}
+    考虑定理如下：
+
+    \begin{theorem}
+        假设 \(f(x,y)\) 在定义域 \(G\) 内连续且关于 \(y\) 满足局部李普希茨条件，则初值问题
+        \[\frac{d y}{d x}=f(x, y), \quad y\left(x_{0}\right)=y_{0}\right\]
+        在定义的区间上对初值是连续依赖的。
+    \end{theorem}
+
+    则对于 \(g\), 令 \(G=-f-\left(f^{2}-g^{2}\right) f\), 则 \(\sup |\partial G/\partial g|=\sup |2fg|\) 有界，
+    满足李普希茨条件，因此 \(g\) 关于初值有连续依赖性。
+    对于 \(f\), 令 \(F=-\frac{2 f}{r}-\nu g-\left(f^{2}-g^{2}\right) g\), 则
+    \(\sup |\partial F/\partial f|=\sup |2/r+2fg| \) 同样有界，则同样关于初值有连续依赖性。
+
+    \subsection{第四问}
+    根据第三问的结论在给定 \(A\) 的条件下，函数对初值有连续依赖性，而根据第二问的猜想，无穷远处的 \(g\) 的值可能等于 0.1785 或者 -0.1785.
+    则存在某个 \(g_0\) 在给定 \(A\) 的条件下趋于 0.
+    因此可以设计二分法查找该值。相关代码在 exp3\_4.m 中。
+
+    在该条件下找出的值为 \(0.6518128402531147003173828125\).
+    图像如下
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.7\textwidth]{picture/exp3_4}
+    \end{figure}
+
+    且 \(f\) 的值都大于等于 0.
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.7\textwidth]{picture/exp3_4_2}
+    \end{figure}
+
+    \subsection{第五问}
+    按照第四问的思路进行，计算得到 \(g_0=1.0887302529156730468429259417462\).
+    此时的图像为
+    \begin{figure}[H]
+        \centering
+        \includegraphics[width=0.7\textwidth]{picture/exp3_5}
+    \end{figure}
+
+    同样地满足 \(f\) 大于等于 0.
 \end{document}
