@@ -1,3 +1,5 @@
+clc,clear,close
+
 x=dlarray([1;-1]);
 w1=[0 -1 -2
     1 0 -1]';

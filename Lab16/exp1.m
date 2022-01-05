@@ -10,8 +10,12 @@ surf(X,Y,Z,'MeshStyle','none')
 xlabel('x(1)')
 ylabel('x(2)')
 title('f(x)')
+hold on
+contour3(X,Y,Z,10)
 
 figure(2)
 contour(X,Y,Z)
 
-[x,fval]=ga(@(x) -1*func(x),2,[],[],[],[],[-1 -1],[1 1],[],options);
+[x,fval]=ga(@(x) -1*func(x),2,[],[],[],[],[-1 -1],[1 1],[]);
+disp(x)
+disp(fval)
